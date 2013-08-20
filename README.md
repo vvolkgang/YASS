@@ -28,7 +28,11 @@ The code was created in Windows 7 + Visual Studio 2010. To compile it you will n
 * GLUT
 * bin/textures folder - with all the textures inside - next to the compiled .exe (app will crash on start if any texture isn't present)
 
-Contact
+authors
 --------
 
-Feel free to PM/Mail me for any question, you will find my contact information on my blog> [DementedVice.wordpress.com/about](http://dementedvice.wordpress.com/about/)
+Álison Fernandes  | [DementedVice.wordpress.com/about](http://dementedvice.wordpress.com/about/)
+
+Hugo Ruivo | [LinkedIn](http://www.linkedin.com/pub/hugo-ruivo/18/55a/67) | [HRuivoPortfolio.wordpress.com](http://hruivoportfolio.wordpress.com/)
+
+
