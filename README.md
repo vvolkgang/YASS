@@ -1,25 +1,34 @@
 Yet Another Solar System (YASS)
 ====
 
-YASS is a 3D Solar System made in C & OpenGL, for my 2nd 3D Programming class in Digital Games Development Engineering 
+__Subject:__ 3D Programming, 2nd yr
 
-but, in a nutshell, the main key points about this project are:
+__Course:__ Digital Games Development Engineering @ IPCA
+
+__Description:__ 3D Solar System in C & OpenGL. First project of the abovementioned subject, enabling students to gain empirical experience with OpenGL API programming.
+
+features
+--------
 
 * Object Oriented like code structure in C, through data hiding using incomplete types
 * Simulation with real scientific data
 * Some alpha blending sauce
-* Neat GUI
+* Neat GUI using AntTweakBar
+* GLUT
 
-Theres a presentation in [docs\YASS_EN.pptx](https://github.com/vvolkgang/YASS/blob/master/docs/YASS_EN.pptx) and in [SlideShare](http://www.slideshare.net/alison_fernandes/yet-another-solar-system) with more information about the project.
+For more in-depth information about the project, check the presentation in [SlideShare](http://www.slideshare.net/alison_fernandes/yet-another-solar-system) or [docs\YASS_EN.pptx](https://github.com/vvolkgang/YASS/blob/master/docs/YASS_EN.pptx).
 
-Feel free to PM/Mail me for any question, you will find my contact information on my blog> DementedVice.wordpress.com 
-
-To Compile
+compilation
 ---------------
-The code was made in Windows 7 + Visual Studio 2010. To compile it you will need:
+This repo has the compiled binaries tested on Windows 7 and 8. 
+The code was created in Windows 7 + Visual Studio 2010. To compile it you will need:
 
 * SOIL
 * AntTweakBar
 * GLUT
 * bin/textures folder - with all the textures inside - next to the compiled .exe (app will crash on start if any texture isn't present)
 
+Contact
+--------
+
+Feel free to PM/Mail me for any question, you will find my contact information on my blog> [DementedVice.wordpress.com/about](http://dementedvice.wordpress.com/about/)
